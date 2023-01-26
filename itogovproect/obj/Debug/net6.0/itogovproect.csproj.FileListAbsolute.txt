@@ -1,0 +1,16 @@
+C:\Users\User\Итоговый проект\itogovproect\obj\Debug\net6.0\itogovproect.GlobalUsings.g.cs
+C:\Users\User\Итоговый проект\itogovproect\obj\Debug\net6.0\itogovproect.csproj.AssemblyReference.cache
+C:\Users\User\Итоговый проект\itogovproect\obj\Debug\net6.0\itogovproect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Итоговый проект\itogovproect\obj\Debug\net6.0\itogovproect.AssemblyInfoInputs.cache
+C:\Users\User\Итоговый проект\itogovproect\obj\Debug\net6.0\itogovproect.AssemblyInfo.cs
+C:\Users\User\Итоговый проект\itogovproect\obj\Debug\net6.0\itogovproect.csproj.CoreCompileInputs.cache
+C:\Users\User\Итоговый проект\itogovproect\bin\Debug\net6.0\itogovproect.exe
+C:\Users\User\Итоговый проект\itogovproect\bin\Debug\net6.0\itogovproect.deps.json
+C:\Users\User\Итоговый проект\itogovproect\bin\Debug\net6.0\itogovproect.runtimeconfig.json
+C:\Users\User\Итоговый проект\itogovproect\bin\Debug\net6.0\itogovproect.dll
+C:\Users\User\Итоговый проект\itogovproect\bin\Debug\net6.0\ref\itogovproect.dll
+C:\Users\User\Итоговый проект\itogovproect\bin\Debug\net6.0\itogovproect.pdb
+C:\Users\User\Итоговый проект\itogovproect\obj\Debug\net6.0\itogovproect.dll
+C:\Users\User\Итоговый проект\itogovproect\obj\Debug\net6.0\ref\itogovproect.dll
+C:\Users\User\Итоговый проект\itogovproect\obj\Debug\net6.0\itogovproect.pdb
+C:\Users\User\Итоговый проект\itogovproect\obj\Debug\net6.0\itogovproect.genruntimeconfig.cache
